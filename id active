@@ -1,2 +1,11 @@
+USAR:BAXA
+PASS:BAXAM
 
+TOOLS VIP
+@B_1_B2
+rm -rf X-PRO 
+git clone https://github.com/Mkr404-Cyber/X-PRO.git
+cd X-PRO 
+git pull
+python MKR.py
 
