@@ -5,7 +5,8 @@ TOOLS VIP
 @B_1_B2
 rm -rf X-PRO 
 git clone https://github.com/Mkr404-Cyber/X-PRO.git
-cd X-PRO 
+cd - @B_1_B2
 git pull
 python MKR.py
 
+@B_1_B2/ @B_1_B2/@B_1_B2/@B_1_B2/@B_1_B2
